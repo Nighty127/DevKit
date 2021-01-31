@@ -1,6 +1,30 @@
 [
     {
         "embed": {
+            "description": "This is Not youtube channel that provides high quality reddit content. Videos are uploaded regularly so you are never out of funny, interesting or even creepy content!",
+            "color": 15114050,
+            "footer": {
+                "icon_url": "https://i.imgur.com/walA38R.jpg",
+                "text": "I am the DevKit, Daughter of Discord"
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/walA38R.jpg"
+            },
+            "author": {
+                "name": "DevKit",
+                "url": "",
+                "icon_url": "https://i.imgur.com/walA38R.jpg"
+            },
+            "fields": [
+                {
+                    "name": "Discord Server!",
+                    "value": "[**Click Here**](https://discord.gg/jCWPFG4N5y)"
+                }
+            ]
+        }
+    },
+    {
+        "embed": {
             "title": "Berkand Karadere",
             "description": "Berkand Karadere is an German Community Manager who integrated new systems into the game industry. He also is hosting and developing web servers and game servers. He also plays American Football for the Dortmund Giants and his journey has just begun.",
             "color": 2968248,
