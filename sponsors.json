@@ -11,15 +11,11 @@
                 "url": "https://i.imgur.com/WyzaPKY.png"
             },
             "author": {
-                "name": "Sir Reddit",
-                "url": "https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1",
+                "name": "DevKit",
+                "url": "",
                 "icon_url": "https://i.imgur.com/WyzaPKY.png"
             },
             "fields": [
-                {
-                    "name": "Subscribe!",
-                    "value": "[**Click Here**](https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1)"
-                },
                 {
                     "name": "Discord Server!",
                     "value": "[**Click Here**](https://discord.gg/V8ErqHb)"
